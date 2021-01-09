@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Wilian Martinez
 #### I am Jr backend developer 
-![I am Jr backend developer ](https://1.cms.s81c.com/sites/default/files/2018-10-15/digital_binary_data_0.jpg)
 
 I'm Salvadorian living in Costa Rica
 
