@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Wilian Martinez
-#### I am Jr backend developer 
+#### I am backend developer 
 
-I'm Salvadorian living in Costa Rica
+
 
 Skills: Javascript. Python, Php, Laravel, Nodejs, Vue js
 
