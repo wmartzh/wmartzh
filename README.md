@@ -3,9 +3,9 @@
 
 
 
-Skills: Javascript. Python, Php, Laravel, Nodejs, Vue js
+Skills: Javascript. Python, Php, Laravel, NodeJS, VueJS, ReactJS
 
-- 🔭 I’m currently working on a E-Billing company as Jr FullStack 
+- 🔭 I’m currently working on a E-Billing company as FullStack Developer 
 - 🌱 I’m currently learning Python, Nodejs 
 - 👯 I’m looking to collaborate on Projects as backend 
 - ⚡ Fun fact: I dont like pizza  
