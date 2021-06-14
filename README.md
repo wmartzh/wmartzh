@@ -17,5 +17,6 @@ Skills: Javascript. Python, Php, Laravel, NodeJS, VueJS, ReactJS
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wmartzh)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmartzh)](https://github.com/anuraghazra/github-readme-stats)
+
 
