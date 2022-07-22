@@ -3,7 +3,7 @@
 
 
 
-Skills: Javascript. Python, Php, Laravel, NodeJS, VueJS, ReactJS
+Skills: Javascript, Typescript, Python, Php, Laravel, NodeJS, VueJS, ReactJS
 
 - 🔭 I’m currently working as Backend Developer 
 - 🌱 I’m currently learning  Elasticsearch, NestJS
