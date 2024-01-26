@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NestJS,TS, Mongo, Elasticsearch,Microservices**
 
-- 🌱 I’m currently learning **Java, Java Spring**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **NesJS,NodeJS, TS**
 
