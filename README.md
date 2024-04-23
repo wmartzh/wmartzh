@@ -1,14 +1,6 @@
-![Wilian Martinez Medium Banner (1)](https://github.com/wmartzh/wmartzh/assets/26823527/d9ec021b-9897-43a1-b29c-9f8ba0f349ce)
+
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/wmartzh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:wmartzh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
 
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A happy backend developer</h3>
@@ -19,6 +11,15 @@
 
 <p align="left">Hello, I'm a system engineer, living in Costa Rica.<br><br>- 🔭 I’m working as a Backend Engineer<br>- ⚡ In my free time I like to read and make coffee</p>
 
+<h4 align="left"> Connect with me</h4>
+<div align="left">
+  <a href="https://www.linkedin.com/in/wmartzh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:wmartzh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
 
 <h3 align="left">🛠 Current Stack</h3>
