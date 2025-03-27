@@ -25,7 +25,7 @@
 <h3 align="left">🛠 Current Stack</h3>
 
 
-[![Other Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,nestjs,express,mongo,elasticsearch,redis,gcp,docker,github,git,bash,vscode,obsidian&theme=dark)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,nestjs,express,mongo,elasticsearch,redis,gcp,docker,github,git,bash,neovim,vscode,obsidian&theme=dark)](https://skillicons.dev)
 
 
 <h3 align="left">🛠 Other Languages & Tools</h3>
