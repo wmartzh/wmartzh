@@ -25,12 +25,12 @@
 <h3 align="left">🛠 Current Stack</h3>
 
 
-[![Other Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,nestjs,express,mongo,elasticsearch,redis,gcp,docker,github,git,bash,neovim,vscode,obsidian&theme=dark)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,nestjs,express,mongo,elasticsearch,redis,gcp,docker,github,git,bash,neovim,obsidian,npm,yarn&theme=dark)](https://skillicons.dev)
 
 
 <h3 align="left">🛠 Other Languages & Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,svelte,vuejs,html,htmx,alpinejs,mysql,postgresql,laravel,php,prisma,deno,bun,gql,githubactions,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,go,svelte,mysql,postgresql,laravel,php,prisma,deno,bun,gql,githubactions,vscode&theme=dark)](https://skillicons.dev)
 
 
 <div align="center">
